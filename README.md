@@ -18,6 +18,7 @@ Datasets evaluated:
 
 - [Hate Speceh and Offensive Language Dataset](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset)
 - [HateXplain](https://hatespeechdata.com/) including annotations for level of hate speech included
+- Other datasets accurately covering the dangerous capabilities and capabilities space (MMLU etc.)
 
 From these datasets, we get performance metrics over training steps that together represent a type of feature space we can conduct PCA over.
 
